@@ -1,0 +1,1 @@
+MUI is a hybrid of [[Style Systems]] and [[Behavior Libraries]].

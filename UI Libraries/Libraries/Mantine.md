@@ -1,0 +1,1 @@
+Similar to [[Material UI]], Mantine is a hybrid library 
